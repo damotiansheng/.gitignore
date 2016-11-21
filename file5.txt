@@ -1,3 +1,4 @@
 this is file5.txt
 creating a new branch is quick
 master add
+merge branch with no fast forward
